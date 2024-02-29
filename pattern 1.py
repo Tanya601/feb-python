@@ -1,6 +1,6 @@
 from turtle import *
 
-speed('fastest')
+speed('slowest')
 pencolor('red')
 pensize(3)
 
